@@ -1,0 +1,9 @@
+What is activity?
+
+Activity is that we had to scrap the github
+-> First we get a url ("https://github.com/topics")
+-> we had to request this and had to ge the three topics got after hitting this url
+-> Then we had to go to each topic and get its first 8 repos link
+-> Then we had to create folder of each topic
+-> and store json file in folder which is named with basename of links of repos of that particular topic
+-> and then going to issues link and then finding the link and name of every issue.
